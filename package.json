@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OICIRUAM73/DogsTagram.git"
+    "url": "git+https://github.com/OICIRUAM73/Dogstagram.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OICIRUAM73/DogsTagram/issues"
+    "url": "https://github.com/OICIRUAM73/Dogstagram/issues"
   },
-  "homepage": "https://github.com/OICIRUAM73/DogsTagram#readme",
+  "homepage": "https://github.com/OICIRUAM73/Dogstagram#readme",
   "dependencies": {
     "svelte": "^3.22.2"
   },
