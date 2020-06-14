@@ -31,7 +31,7 @@
 <div class="Profile">
   <div class="Profile-content">
     <div class="Profile-avatar">
-      <img src="../../public/profile.jpg" alt="">
+      <img src="https://pbs.twimg.com/profile_images/1271998882164154370/yt0daHPA_400x400.jpg" alt="">
     </div>
     <div class="Profile-info">
       <h2>{nickname}</h2>
