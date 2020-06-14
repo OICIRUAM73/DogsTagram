@@ -66,7 +66,7 @@
     <div class="Stories-items">
       <div class="Stories-item">
         <div class="Stories-item-box">
-          <img src="../../public/profile.jpg" alt="">
+          <img src="https://pbs.twimg.com/profile_images/1271998882164154370/yt0daHPA_400x400.jpg" alt="">
         </div>
         <h2>
           vmllc
