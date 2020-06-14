@@ -14,8 +14,8 @@
 </script>
 
 <style>
-  @import url('http://fonts.googleapis.com/css?family=Lato:300,400&display=swap');
-  @import url('http://fonts.googleapis.com/css?family=Pacifico&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Lato:300,400&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
 
   :global(body) {
     background-color: #fafafa;
